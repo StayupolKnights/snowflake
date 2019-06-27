@@ -1,3 +1,6 @@
+# TO-DO
+Adapt the Snowflake tool for Stayupol Knights' internal use
+
 # Snowflake
 
 Snowflake is Medium's tool for planning and supporting our engineers' career development. You can read more
